@@ -1,0 +1,15 @@
+This bitch is information on the Apex Programmers Company web page.
+
+The apex programemrs name is a business that "owns" other like programs. We are gonna make our version of spotify and our version of omegle
+
+Lets start this Journey. 6/8/2022
+
+Web Pages:
+Home page (index)
+Services Pages
+Contact page
+Payments Page
+Platforms page (to showcase omegle and spotify)
+
+Todo:
+Start homepage DONE
